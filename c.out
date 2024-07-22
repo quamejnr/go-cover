@@ -1,0 +1,5 @@
+mode: set
+github.com/quamejnr/go-cover/main.go:3.34,5.2 1 1
+github.com/quamejnr/go-cover/main.go:7.34,8.17 1 1
+github.com/quamejnr/go-cover/main.go:8.17,9.36 1 0
+github.com/quamejnr/go-cover/main.go:11.2,11.20 1 1
